@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:fillViewport="true"
+    android:background="@color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white">
+
+       <ImageView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:src="@drawable/logo2"
+           android:padding="10dp">
+
+       </ImageView>
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="VISION"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+           android:layout_marginTop="10dp"
+            android:text="Engineering the future of the nation by transforming the students to be technically skilled managers, innovative leaders and environmentally receptive citizens."
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-condensed"
+
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="MISSION"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:text="To implement holistic approach in curriculum and pedagogy through Industry Integrated Interactions to meet the needs of Global Engineering Environment.
+To develop students with knowledge, attitude and skill of employability, entrepreneurship (Be Job creators than job seekers), research potential and professionally ethical citizens."
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-condensed"
+
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="CHAIRMAN'S DESK"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:text="It is my pleasure to congratulate you on your interest for enrolling yourself as a student in our group of Institutions, which are well known for the discipline, quality education and personality development. Our students have excelled not only in academic activities by obtaining university ranks but also have proved theirmettle by taking part in Curricular, Co-curricular and Extra curricular activities."
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-condensed"
+
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="VICE CHAIRMAN'S DESK"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:text="Education is presently undergoing a welcome seismic change. In tune with the changing times, RajaRajeshwari Group of Institutions, aim to help students excel in the various fields of study of their choice. In the field of education, RajaRajeshwari Group of Institutions is looking at engaging the students in overall development processes. We have designed co- curricular and extra curricular activities for the students to be involved in, actively."
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-condensed"
+
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="PRICIPAL DESK"
+            android:textStyle="bold"
+            android:gravity="center_horizontal"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:text="Every Child is Born free with equal intelligent and capable enough to achieve the top position in the society by acquiring the best education. We are responsible to make every child as the best educated person. Our ACS College of Engineering ( a unit of Rajarajeswari group of Institution) founded by Hon’ble Chairman Sri. A.C.Shanmugam with the object of providing the Best Infrastructure, Highly qualified and experienced Professors, State of Art World Class Laboratories at affordable fees structure for all class of students in the society."
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-condensed"
+
+            ></TextView>
+
+    </LinearLayout>
+
+</ScrollView>

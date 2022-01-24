@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="COMPUTER SCIENCE AND ENGINEERING"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:text="The Department of Computer Science and engineering was established in 2009 with an intake of 60 and increased to 120 in the year of 2017-18. Computer Science and Engineering Department Endeavour upon providing high quality technical education to meet the ever growing industry needs challenges in the emerging industries, social needs and provide all-round personality development with responsibility, emphasizing on quality, standards, research and innovation for students and faculty."
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-condensed"
+
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="QUALITY POLICY"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:text="Empower the stakeholders in the process of continuous improvement of the departmentInculcate the importance of interdisciplinary researchProgressively updating the practical implementations towards entrepreneurship"
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-condensed"
+
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="VISION"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:text="The vision of the Computer Science and engineering department is to provide excellence knowledge and enrich the problem solving skills of the students in the field of CSE with a focus to prepare the students for industry need, carry out research, recognized as innovative leader, responsible citizen and improve the environment"
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-condensed"
+
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="MISSION"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:text="Prepare the students with strong fundamental concepts, analytical capability, programming and problem solving skills.Create an ambience of education through faculty training, self learning, sound academic practices and research endeavors.To improve department industry collaboration through internship programme and interaction with professional society through seminar/workshops."
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-condensed"
+
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="DEPARTMENT PROFILE"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:text="The Department of Computer Science and Engineering was established in the year 2009. The department is equipped with computer laboratories consisting of high end computing systems, digital and analog equipments, High end Server Class Systems including IBM Open Power Server. These systems are connected to LAN which is networked to Institute campus wide (WAN) with access of INTERNET (Access available for 24×7 from both Wired and WiFi connectivity) from each departmental computers. There are several common facilities such as Laser Printers, Color Scanners, LCD DLP Projectors, Wireless Devices, Network Switches, Peripheral accessories, Equipment based on digital hardware/firmware, besides licensed software are available as general resources for the usage of students and faculty members of the department. "
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-condensed"
+
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:text="DEPARTMENT ACTIVITIES"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:layout_marginTop="30dp"
+            ></TextView>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"
+            android:text="Department association has been formed with the logo “CODE” (computer organization for developing Engineers)Expert talk from MRO-Tech Bangalore.seminar on cyber crime and malware from MCAFEE BANGALORE 1) skills and tips in programming domain from EKALAVAYA UNIVERSYS, BANGALORE 2) object thinking and programming from INFOSYS BANGALORE 3) Cyber crime and ethical hacking from DF and T, BANGALORE"
+            android:textColor="@color/black"
+            android:gravity="left"
+            android:textStyle="normal"
+            android:fontFamily="sans-serif-condensed"
+
+            ></TextView>
+    </LinearLayout>
+
+
+</ScrollView>
